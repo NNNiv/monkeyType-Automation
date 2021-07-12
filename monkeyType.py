@@ -1,7 +1,7 @@
 from selenium import webdriver
 import pyautogui
 import time
-chromedriver = "/home/nived/Downloads/chromedriver"
+chromedriver = "location of the extracted chromedriver file"
 driver = webdriver.Chrome(chromedriver)
 driver.get('https://monkeytype.com')
 result = driver.find_element_by_id("words")
