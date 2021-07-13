@@ -18,5 +18,6 @@ for word in replaceDict:
     words = words.replace(word, replaceDict[word])
 print(words)
 time.sleep(5)
+#gotta add a timer later
 for x in words:
     pyautogui.press(x)
