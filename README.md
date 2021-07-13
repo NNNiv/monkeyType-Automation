@@ -10,4 +10,4 @@ pip install pyautogui
 ```bash
 pip install selenium
 ```
-Also download [chromedriver](https://chromedriver.chromium.org/downloads) depending on your chrome version and extract the file 
+Also download [chromedriver](https://chromedriver.chromium.org/downloads) depending upon your chrome version and extract the file 
